@@ -1,4 +1,4 @@
-# 💫 Hello World! I'm Satyam, an Indian Full Stack Developer
+# 💫 Hello World! I'm Satyam, a Full Stack Developer
 
 Blockchain Technology Student | Web3 • Software Development • Problem Solving
 
