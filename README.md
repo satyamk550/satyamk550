@@ -1,69 +1,15 @@
-<div align="center">
+# 💫 Hello World! I'm Satyam, an Indian Full Stack Developer
 
-# Satyam Kumar
+Blockchain Technology Student | Web3 • Software Development • Problem Solving
 
-### Blockchain Engineering Student • Web3 • AI/ML
+I am a computer science student specializing in Blockchain Technology with a strong interest in software development, problem solving, and Web3 technologies. Familiar with Python, Java, C++, HTML, CSS, JavaScript, Solidity, MySQL, and blockchain fundamentals. Currently strengthening Data Structures and Algorithms using C++ while building practical software and Web3 projects.
 
-<br>
+## 🌐 Socials:
 
-<a href="https://github.com/satyamk550">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/satyamkumar-dev/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/satyamkumar-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<br><br>
+## 💻 Tech Stack:
 
-<!-- ADD YOUR IMAGE HERE -->
-
-<img src="YOUR_IMAGE_URL_HERE" width="180" />
-
-<br><br>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,vite,solidity,ethereum,docker,git,github,linux,vscode&perline=8" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=satyamk550&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamk550&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyamk550/satyamk550/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyamk550/satyamk550/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/satyamk550/satyamk550/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-Building. Learning. Improving.
-
-</div>
+<p>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/ETHEREUM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/> <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/> <img src="https://img.shields.io/badge/METAMASK-F6851B?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask"/> <img src="https://img.shields.io/badge/ETHERS.JS-2535A0?style=for-the-badge&logo=ethers&logoColor=white" alt="ethers.js"/> <img src="https://img.shields.io/badge/REMIX_IDE-1E1E1E?style=for-the-badge&logo=ethereum&logoColor=white" alt="Remix IDE"/> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/WSL-0A97D9?style=for-the-badge&logo=linux&logoColor=white" alt="WSL"/>
+</p>
